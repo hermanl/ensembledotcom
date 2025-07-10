@@ -1,2 +1,8 @@
 mountpoints:
   /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/hermanl/ensemble?csf=1&web=1&e=Gmoys5
+
+
+ # mountpoints:
+#  /:
+#    url: https://content.da.live/hermanl/ensembledotcom/
+#    type: markup
